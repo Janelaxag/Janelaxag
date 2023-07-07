@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang, TypeScript**
 
-- 💬 Ask me about **React, Jacascript**
+- 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **amir.akhmetov.qw@gmail.com**
 
